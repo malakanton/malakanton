@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently **Studying in MIPT Deep Learning School**
 
-- 👨‍💻 All of my projects are available [down below](down below)
+- 👨‍💻 All of my projects are available in repositories
 
 - 📫 How to reach me **anton.malakaev@gmail.com**
 
