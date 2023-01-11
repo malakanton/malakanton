@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2019/01/AI-artificial-intelligence-brain-deep-learning.jpg?w=1392&ssl=1)
+![MasterHead](https://www.sas.com/en_us/insights/analytics/machine-learning/_jcr_content/par/styledcontainer_31e3/image.img.jpg/1457718474756.jpg)
 
 <h1 align="center">Hi 👋, I'm Anton Malakaev</h1>
 <h3 align="center">A passionate ML and DS beginner</h3>
