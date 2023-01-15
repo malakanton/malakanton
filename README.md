@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakanton&label=Profile%20views&color=0e75b6&style=flat" alt="malakanton" /> </p>
 
-- 🔭 I’m currently **An intern in Yandex School of Data Analisys**
+- 🔭 I’m currently **Studying in Yandex School of Data Analisys**
 
 - 🌱 I’m currently **Studying in MIPT Deep Learning School**
 
