@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in repositories
 
-- 📫 How to reach me **anton.malakaev@gmail.com**
+- 📫 How to reach me tg: @malakanton, **anton.malakaev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
