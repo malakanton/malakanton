@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in repositories
 
-- 📫 How to reach me <a href="t.me/malakanton" target="balnk">@malakanton</a>, **anton.malakaev@gmail.com**
+- 📫 How to reach me <a href="https://t.me/malakanton" target="balnk">@malakanton</a>, **anton.malakaev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
