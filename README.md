@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in repositories
 
-- 📫 How to reach me <a href="https://t.me/malakanton" target="balnk">@malakanton</a>, **anton.malakaev@gmail.com**
+- 📫 How to reach me <a href="https://t.me/malakanton" target="balnk"><img align="center" src="https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle.png" alt="anton-malakaev-25a288253" height="20" width="20" />@malakanton</a>, **anton.malakaev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
