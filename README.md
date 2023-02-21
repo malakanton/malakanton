@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anton-malakaev-25a288253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-malakaev-25a288253" height="30" width="40" /></a>
 <a href="https://kaggle.com/antonmalakaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="antonmalakaev" height="30" width="40" /></a>
+<i class="fa-brands fa-telegram"></i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
