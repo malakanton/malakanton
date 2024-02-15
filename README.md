@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakanton&label=Profile%20views&color=0e75b6&style=flat" alt="malakanton" /> </p>
 
-- 📫 How to reach me <a href="https://t.me/malakanton" target="balnk"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" height="25" width="35" />@malakanton</a>, **anton.malakaev@gmail.com**
+📫 How to reach me <a href="https://t.me/malakanton" target="balnk"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" height="25" width="35" />@malakanton</a>, **anton.malakaev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
