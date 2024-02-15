@@ -1,15 +1,9 @@
 ![MasterHead](https://www.sas.com/en_us/insights/analytics/machine-learning/_jcr_content/par/styledcontainer_31e3/image.img.jpg/1457718474756.jpg)
 
-<h1 align="center">Hi 👋, I'm Anton Malakaev</h1>
+<h1 align="center">Anton Malakaev</h1>
 <h3 align="center">A passionate ML and DS beginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakanton&label=Profile%20views&color=0e75b6&style=flat" alt="malakanton" /> </p>
-
-- 🔭 I’m currently **Studying in Yandex School of Data Analisys**
-
-- 🌱 I’m currently **Studying in MIPT Deep Learning School**
-
-- 👨‍💻 All of my projects are available in repositories
 
 - 📫 How to reach me <a href="https://t.me/malakanton" target="balnk"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" height="25" width="35" />@malakanton</a>, **anton.malakaev@gmail.com**
 
